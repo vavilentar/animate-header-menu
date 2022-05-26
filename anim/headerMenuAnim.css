@@ -1,0 +1,8 @@
+@keyframes text-levitate {
+	from {
+		transform: translateY(0px);
+	}
+	to {
+		transform: translateY(-3px);
+	}
+}
